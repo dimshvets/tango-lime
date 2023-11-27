@@ -3,10 +3,10 @@ h1 {
   align-items: center;
 }
 
-testBranch2-new-lines {
-  color: orange;
+.testBranch2-new-lines {
+  color: rgb(139, 136, 128);
 }
 
-p {
-  color: orange;
+.testBranch2-new-linesfrompc {
+  color: green;
 }/*# sourceMappingURL=style.css.map */
