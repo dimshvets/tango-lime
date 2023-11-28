@@ -1,12 +1,31 @@
+.container {
+  max-width: 480px;
+}
+
 h1 {
-  color: red;
-  align-items: center;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
 }
 
-.testBranch2-new-lines {
-  color: rgb(139, 136, 128);
+.pink_text {
+  color: rgb(235, 121, 178);
+  margin-bottom: 16px;
+  font-family: "Roboto", sans-serif;
 }
 
-.testBranch2-new-linesfrompc {
-  color: green;
+.ver {
+  color: rgb(103, 102, 102);
+  font-family: "Roboto", sans-serif;
+  margin-top: 40px;
+}
+
+.ver_head {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-bottom: 5px;
+  font-size: 20px;
+  font-weight: bold;
 }/*# sourceMappingURL=style.css.map */
